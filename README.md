@@ -102,8 +102,8 @@ This navigation pattern ensures a seamless, app-like exploration flow without re
 │
 ├── 📄 README.md                         ← You are here
 ├── 📊 Electric_Vehicle_Dashboard.pbix   ← Power BI report file
-└── 📂 data/
-    └── Electric Vehicle Population Dataset.csv
+└── Electric Vehicle Population Dataset.csv
+    
 ```
 
 ---
